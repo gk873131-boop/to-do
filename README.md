@@ -4,6 +4,10 @@ A modern and minimal **To-Do List Web App** built with **Vanilla JavaScript** to
 
 ---
 
+Live Demo
+https://gk873131-boop.github.io/todo-app
+
+---
 
 ## ⚡ Key Highlights
 
