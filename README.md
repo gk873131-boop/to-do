@@ -70,15 +70,6 @@ todo-app/
 └── index.js
 ```
 
----
-
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/your-username/todo-app.git
-cd todo-app
-open index.html
-```
 
 ---
 
